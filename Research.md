@@ -1,5 +1,8 @@
 #Research
 
+Consider making calculator app.
+
+
 ```csharp
 using System;
 
