@@ -1,0 +1,15 @@
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\bin\Debug\net7.0\Lab1DesignPattern.exe
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\bin\Debug\net7.0\Lab1DesignPattern.deps.json
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\bin\Debug\net7.0\Lab1DesignPattern.runtimeconfig.json
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\bin\Debug\net7.0\Lab1DesignPattern.dll
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\bin\Debug\net7.0\Lab1DesignPattern.pdb
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.AssemblyInfoInputs.cache
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.AssemblyInfo.cs
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.sourcelink.json
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.dll
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\refint\Lab1DesignPattern.dll
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.pdb
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\Lab1DesignPattern.genruntimeconfig.cache
+C:\Users\dream\Repos\DesignPatterns\Lab1DesignPattern\obj\Debug\net7.0\ref\Lab1DesignPattern.dll

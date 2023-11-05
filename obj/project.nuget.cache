@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bUJSkwEseHd9Dup8U8awxRwPSWt4XO/R/eoJyAS153ZaG8DmVGMrreyYk3kMjGDc7Hem1fen+sgTORlB3Z05Xg==",
+  "dgSpecHash": "7acqdns9vl9qiEUXZBu95J8nur7tqNopIfIhiFV40rP6yoe2NSXhTcKDjHya3ylvSLCRp6QULSobt0SuvbTyUQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dream\\Repos\\DesignPatterns\\Lab1DesignPattern\\Lab1DesignPattern.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dream\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\dream\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
