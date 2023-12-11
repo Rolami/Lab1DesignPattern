@@ -39,6 +39,9 @@ class Warrior : Character
 {
     public override void Attack()
     {
+        // Jag hade kunnat lagt till lite om karaktären dräper en fiende,
+        //  så får observern titta tills det är dags att ge ny level eller något.
+        
         Console.WriteLine("Warrior attacks with a sword!");
         NotifyObservers();
     }
