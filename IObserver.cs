@@ -4,7 +4,7 @@ namespace Lab_1_implementera;
 
 public interface IObserver
 {
-    void Update(ICharacter character);
+    public void Update(ICharacter character);
 }
 
 public class CharacterObserver : IObserver

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 namespace Lab_1_implementera;
 
 // Factory Method
-interface ICharacter
+public interface ICharacter
 {
     void Attack();
     void RegisterObserver(IObserver observer);
@@ -39,9 +39,14 @@ class Warrior : Character
 {
     public override void Attack()
     {
-        // Jag hade kunnat lagt till lite om karaktären dräper en fiende,
-        //  så får observern titta tills det är dags att ge ny level eller något.
+        /* 
+        Jag hade kunnat lagt till lite om karaktären dräper en fiende,
+        så får observern titta tills det är dags att ge ny level eller något.
         
+        Här hade jag kunnat haft en metod som kollar att det är 
+        warrior, mage eller archer som attackerar och därmed rullat skada också.
+        Men tänker att jag håller ner hur komplicerat det är.      
+        */
         Console.WriteLine("Warrior attacks with a sword!");
         NotifyObservers();
     }
@@ -65,7 +70,7 @@ class Archer : Character
     }
 }
 
-abstract class CharacterFactory
+public abstract class CharacterFactory
 {
     public abstract ICharacter CreateCharacter();
 }
